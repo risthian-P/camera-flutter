@@ -19,7 +19,7 @@ Esta guía cubre los pasos necesarios para configurar y desplegar una aplicació
 ```
 	flutter create my_flutter_app
 	cd my_flutter_app  
-	
+```	
 
 Paso 2: Habilitar el soporte webflutter config --enable-web
 flutter create .
@@ -40,4 +40,6 @@ flutter pub get
 Paso 4: Crear un proyecto en FirebaseVe a la consola de Firebase.
 Crea un nuevo proyecto.
 Añade una aplicación web al proyecto y copia la configuración de Firebase.
+
+
 
