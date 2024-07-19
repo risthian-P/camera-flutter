@@ -1,0 +1,36 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "camera-flutter-40339",
+          "appId": "1:940942142487:android:6883456e619c0899c38052",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "camera-flutter-40339",
+          "configurations": {
+            "android": "1:940942142487:android:6883456e619c0899c38052",
+            "web": "1:940942142487:web:087441e4b31b3560c38052"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "source": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "frameworksBackend": {
+      "region": "us-central1"
+    }
+  },
+  "storage": {
+    "rules": "storage.rules"
+  }
+}
