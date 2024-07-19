@@ -36,7 +36,7 @@ dependencies:
 Luego, ejecuta:
 flutter pub get
 
-##Configuración de Firebase
+## Configuración de Firebase
 Paso 4: Crear un proyecto en FirebaseVe a la consola de Firebase.
 Crea un nuevo proyecto.
 Añade una aplicación web al proyecto y copia la configuración de Firebase.
