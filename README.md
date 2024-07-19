@@ -2,15 +2,24 @@
 
 A new Flutter project.
 
-## Getting Started
+# Flutter Web App con Firebase Hosting
 
-This project is a starting point for a Flutter application.
+Esta guía cubre los pasos necesarios para configurar y desplegar una aplicación Flutter web que utiliza Firebase para almacenamiento.
 
-A few resources to get you started if this is your first Flutter project:
+## Requisitos previos
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter](https://flutter.dev/docs/get-started/install) instalado
+- [Firebase CLI](https://firebase.google.com/docs/cli) instalado
+- Cuenta en [Firebase](https://firebase.google.com/)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Configuración del Proyecto
+
+### Paso 1: Crear un nuevo proyecto Flutter
+
+```
+	flutter create my_flutter_app
+	cd my_flutter_app 
+''' 
+	
+
+Para desarrollar 
